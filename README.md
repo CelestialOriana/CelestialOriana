@@ -86,7 +86,7 @@
 
 <div align="center">
 
-[![Gestion Station Meteo](https://github-readme-stats.vercel.app/api/pin/?username=celestialoriana&repo=gestion_station_meteo&theme=radical)](https://github.com/CelestialOriana/gestion_station_meteo)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=celestialoriana&repo=your-repo-name&theme=radical)](https://github.com/celestialoriana/your-repo-name)
 <!-- Add more pinned repos as needed -->
 
 </div>
