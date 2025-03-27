@@ -86,7 +86,7 @@
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=celestialoriana&repo=your-repo-name&theme=radical)](https://github.com/celestialoriana/your-repo-name)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=celestialoriana&repo=your-repo-name&theme=radical)]([https://github.com/celestialoriana/your-repo-name](https://github.com/CelestialOriana/gestion_station_meteo.git))
 <!-- Add more pinned repos as needed -->
 
 </div>
