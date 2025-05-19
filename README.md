@@ -88,6 +88,7 @@
 <div align="center">
 
 [![Gestion Station Meteo](https://github-readme-stats.vercel.app/api/pin/?username=CelestialOriana&repo=gestion_station_meteo&theme=radical)](https://github.com/CelestialOriana/gestion_station_meteo)
+[![Lua Site](https://github-readme-stats.vercel.app/api/pin/?username=CelestialOriana&repo=lua-site&theme=radical)](https://github.com/CelestialOriana/lua-site)
 <!-- Add more pinned repos as needed -->
 
 </div>
