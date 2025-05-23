@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2023/04/21060248/Animation-1200-x-900.gif" width="600" height="300"/>
+  <img src="https://cdn.dribbble.com/userupload/22551121/file/original-ac23c079e29ab5d40cf18edc4e0cc088.gif" width="600" height="400"/>
 </div>
 
 # <div align="center">👋 Hello World, I'm Emmanuel! 👨‍💻</div>
